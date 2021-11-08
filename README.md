@@ -1,1 +1,1 @@
-# py_01
+The Prototype for my project is this and its kinda silly
