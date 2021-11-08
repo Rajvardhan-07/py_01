@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+print("Hello  Mate")
+print("And The =n He Turned Himself Into A Pickle, Funniest Shit I've Ever Seen In My Life") 
